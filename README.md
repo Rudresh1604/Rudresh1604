@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rudresh1604
 - 👀 I’m interested in Competetive Programming
 - 🌱 I’m currently learning DSA 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me LinkedIn RudreshDharkar 
 
 <!---
